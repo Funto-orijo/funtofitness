@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'funtofitness'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6fcbd9b28f74471fa160b0a15ade04db }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_254656329c3a4cb083f3be7fab2cf688 }}
